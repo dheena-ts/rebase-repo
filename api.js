@@ -4,3 +4,6 @@ const b=20;
 console.log(a+b);
 //subtract
 console.log(a-b);
+//multiply
+console.log(a*b);
+
