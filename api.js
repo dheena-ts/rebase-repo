@@ -6,4 +6,6 @@ console.log(a+b);
 console.log(a-b);
 //multiply
 console.log(a*b);
+//divide
+console.log(a/b);
 
